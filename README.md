@@ -20,6 +20,26 @@ const voters = [
 // 7 voters
 ```
 
+Now, back to the first array of objects. Let's practice the **reduce** method.
+Build the following object out of the initial one.
+
+```javascript
+const result = {
+  Becky: 43,
+  Bob: 30,
+  Ed: 55,
+  Jake: 32,
+  Jeff: 30,
+  Joey: 41,
+  Kate: 25,
+  Mary: 31,
+  Phil: 21,
+  Sam: 20,
+  Tami: 54,
+  Zack: 19,
+};
+```
+
 The same array, now let us practice the _sort_ method, sort the voters by age, from youngest to oldest.
 
 ```javascript
